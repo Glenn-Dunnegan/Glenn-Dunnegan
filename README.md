@@ -18,10 +18,11 @@ Services I offer include:
 
 • Small React / JavaScript features
 
-### Example Project
-Link: [freelance-finance.com](https://freelance-finance.com/)
+## Example Project
 
-Short description: A responsive web application built with React and TypeScript that helps freelancers manage financial information through a clean and intuitive interface.
+**Live Demo:** https://Freelance-Finance.com
+
+A responsive web application built with React and TypeScript that helps freelancers manage financial information through a clean and intuitive interface.
 
 - 📫 How to reach me: ...
 Contact
