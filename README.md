@@ -5,11 +5,17 @@ Glenn Dunnegan – Web Developer
 I help businesses fix and improve their websites quickly.
 
 Services I offer include:
+
 • Mobile layout fixes
+
 • Broken pages
+
 • Contact forms
+
 • Landing pages
+
 • Website performance improvements
+
 • Small React / JavaScript features
 
 ### Example Project
